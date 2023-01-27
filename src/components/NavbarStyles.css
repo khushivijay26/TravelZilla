@@ -64,12 +64,20 @@ button {
     transition: 0.2s ease-in-out;
 }
 
+button a{
+    text-decoration: none;
+    color: #222;
+}
+
 .menu-icons {
     display: none;
 }
 
 button:hover {
-    background-color: #151516;
+    background-color: black;
+}
+
+button a:hover {
     color: #fff;
 }
 
