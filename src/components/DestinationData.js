@@ -11,8 +11,8 @@ class DestinationData extends Component{
                 </div>
 
                 <div className="image">
-                    <img alt="image" src={this.props.img1}/>
-                    <img alt="image" src={this.props.img2}/>
+                    <img alt="decor1" src={this.props.img1}/>
+                    <img alt="decor2" src={this.props.img2}/>
                 </div>
             </div>
         )
